@@ -8,7 +8,6 @@ This module is first of two modules dedicated to learning Pandas and Jupyter Not
 ### Brief Description of Challenge
 "In this challenge, we'll dive into a dataset from a fictional e-commerce company, exploring and analyzing data to address real-world business questions. Your mission will involve identifying top customers, popular product categories, calculating profits, and more. By the end of this task, you'll have a practical understanding of data exploration, transformation, and analysis, preparing you for more complex data scenarios in your future career." _Module 4 Challenge description._ 
 
-
 ### Addendum/ Sources & References
 Module 4 Activities. Some of this code was created by following along with the course instructor as he demonstrated how to complete the homework by copying and pasting code from course examples and activites.
 
